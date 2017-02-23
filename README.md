@@ -1,0 +1,2 @@
+# generate_proxy_reduce_bind_apply_call_promise
+generate_proxy_reduce_bind_apply_call_promise
